@@ -108,7 +108,7 @@ with youtube_dl.YoutubeDL(ydl_opts) as ydl:
 
 ##### [My Twitter- @Astrobot-me](https://twitter.com/Astrobot_me)
 
-# Model Rocket Schmetics
+# Model Rocket Schemetics
 #### **Project Micro Gravity Space**
 
 ![Not Found](https://cdn.discordapp.com/attachments/855387903953731624/855428016968826880/11.png)
