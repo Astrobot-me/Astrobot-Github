@@ -1,28 +1,31 @@
-##TEST WEBSITE , PERSONAL WEBSITE SOON :)
-## Welcome to Astrobot's GitHub Page
+**##TEST WEBSITE , PERSONAL WEBSITE SOON :)**
+
+#### Welcome to Astrobot's GitHub Page
 
 
 > Hello This is me Astrobot , 12th grade Student passionate about Space, Science & Tech
 
-##Some Famous Quotes 
+## Some Famous Quotes 
 
-The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela
+* The greatest glory in living lies not in never falling, but in rising every time we fall. -_Nelson Mandela_
 
-The way to get started is to quit talking and begin doing. -Walt Disney
+* The way to get started is to quit talking and begin doing. -_Walt Disney_
 
-Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -Steve Jobs
+* Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -_Steve Jobs_
 
-If life were predictable it would cease to be life, and be without flavor. -Eleanor Roosevelt
+* If life were predictable it would cease to be life, and be without flavor. -_Eleanor Roosevelt_
 
-If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. -Oprah Winfrey
+* If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. -_Oprah Winfrey_
 
-If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -James Cameron
+* If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -_James Cameron_
 
-Life is what happens when you're busy making other plans. -John Lennon
+* Life is what happens when you're busy making other plans. -_John Lennon_
+
+#### Mathematical Calculations Using Python
 
 ### Python Program to Print Fibonacci numbers
 
-```markdown
+```python
 x=0
 y=1
 count=0
@@ -34,12 +37,66 @@ while count<5:
   count=count+1
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Python Program to Find Factorial 
+```python
+y = 1
+num = int(input('Enter you number--'))
+for x in range(1,num+1):
+    y=y*x
+print('factorial of '+ str(num) +' is ='+ str(y))
 
-### Jekyll Themes
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Astrobot-me/My-Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Python Program to Find an Year is Leap year or Not
+```python
+x = int(input("Enter The year in format eg-2020--"))
+if(x%100 == 0):
+    if(x%400 == 0):
+        print(str(x) +' is a leap year')
+    else:
+        print(str(x) +' is not a leap year')
+else:
+    if(x%4 == 0):
+        print(str(x) +" is a Leap Year")
+    else:
+        print(str(x) +" is not a Leap year")
+```
+### Program to Download YT Videos 
+```python
+import youtube_dl
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+downlaod_qualities = { 
+    "720p":"136",
+    "480p":"135",
+    "Audio-Only":"140",
+    "1080p":"137"
+}
+
+ydl_opts = {
+    'format': '136',      
+    
+}
+#ydl_opts = {}
+'''
+with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+    ydl.list_thumbnails(info_dict=["https://youtu.be/r7EiKiwZH5s"])
+
+print(downlaod_qualities.keys())'''
+
+
+with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+    ydl.download(['https://youtu.be/r7EiKiwZH5s'])
+
+
+
+```
+
+
+## Link to Other Repositories 
+
+> # [Number Guessging Game Using Python](https://github.com/Astrobot-me/NUMBER_GUESSING_GAME)
+> # [Basic Discord Bot With 10 Plus Commands & with Fun comds](https://github.com/Astrobot-me/Basic_Discord_Bot-Discord.py-)
+> # [Some More Program Based on Basic Maths](https://github.com/Astrobot-me/Some-mathematical-calculations)
+
+
