@@ -99,6 +99,7 @@ with youtube_dl.YoutubeDL(ydl_opts) as ydl:
 > ### [Basic Discord Bot With 10 Plus Commands & with Fun comds](https://github.com/Astrobot-me/Basic_Discord_Bot-Discord.py-)
 > ### [Some More Program Based on Basic Maths](https://github.com/Astrobot-me/Some-mathematical-calculations)
 
+## Connect With Me : 
 ##### [My Youtube Channel 📺 - @Micro Gravity Wrokshop](https://www.youtube.com/channel/UCXcgqPN7rEx6IeeJQcTcaaQ)
 
 ##### [My Discord Server](https://discord.gg/b6h2GhCp)
@@ -110,18 +111,18 @@ with youtube_dl.YoutubeDL(ydl_opts) as ydl:
 # Model Rocket Schmetics
 #### **Project Micro Gravity Space**
 
-![Not Found](https://discord.com/channels/817001090314403840/855387903953731624/855427310668742726)
+![Not Found](https://cdn.discordapp.com/attachments/855387903953731624/855428016968826880/11.png)
 
 
 #### **Gravity Model Rocket**
 
-![Not Found](https://discord.com/channels/817001090314403840/855387903953731624/855431947492130836)
+![Not Found](https://cdn.discordapp.com/attachments/855387903953731624/855432067588161536/unknown.png)
 
 
-![Not Found](https://discord.com/channels/817001090314403840/855387903953731624/855432071244677150)
+![Not Found](https://cdn.discordapp.com/attachments/855387903953731624/855431945333112882/unknown.png)
 
 #### **Flight Computer Schemetic (Basic Data Logger)**
-![Not Found](https://discord.com/channels/833966171555495946/834104870179962900/842027201331462174)
+![Not Found](https://cdn.discordapp.com/attachments/834104870179962900/842027197694869534/unknown.png)
 
 
 ```markdown
