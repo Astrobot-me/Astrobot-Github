@@ -1,30 +1,37 @@
 ##TEST WEBSITE , PERSONAL WEBSITE SOON :)
-## Welcome to GitHub Pages
+## Welcome to Astrobot's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/Astrobot-me/My-Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> Hello This is me Astrobot , 12th grade Student passionate about Space, Science & Tech
 
-### Markdown
+##Some Famous Quotes 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela
+
+The way to get started is to quit talking and begin doing. -Walt Disney
+
+Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -Steve Jobs
+
+If life were predictable it would cease to be life, and be without flavor. -Eleanor Roosevelt
+
+If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. -Oprah Winfrey
+
+If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -James Cameron
+
+Life is what happens when you're busy making other plans. -John Lennon
+
+### Python Program to Print Fibonacci numbers
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+x=0
+y=1
+count=0
+while count<5:
+  print(x)
+  z=x+y
+  x=y
+  y=z
+  count=count+1
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
